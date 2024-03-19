@@ -1,7 +1,14 @@
+<style is:global>
+       img { padding-right:10px;} 
+</style>
+
 <h1 align="center">Hi 👋, I'm Engel Rodriguez</h1>
 <h3 align="center">Software Developer | Full Stack Developer</h3>
-       
-- 📫 How to reach me **Imengelbrod@gmail.com**
+
+- 📖 I like to learn new things
+- ❓ Ask me about JavaScript, Node.JS, React.JS, Algorithms       
+- 📫 Reach me at **Imengelbrod@gmail.com**
+- ⚾ Baseball Fan
 <h3 align="left">About me:</h3>
        <p>
         Full-Stack Software Developer with 5+ years of experience, driven by a relentless passion for continuous learning and a
@@ -14,10 +21,10 @@
        <p align="left">
        <a href="https://linkedin.com/in/engelbrod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engelbrod/" height="30" width="40" /></a>
        </p>
-       <h3 align="left">Tech Stack:</h3>
+       <h3 align="left">💻 Tech Stack:</h3>
        <p align="left">  
          <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" padding="10"/>
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="padding-right:10px;"/> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>    
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
