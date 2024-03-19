@@ -5,6 +5,9 @@
 - ❓ Ask me about JavaScript, Node.JS, React.JS, Algorithms       
 - 📫 Reach me at **Imengelbrod@gmail.com**
 - ⚾ Baseball Fan
+<br >
+<br >
+
 ## 🤵 About me
 <p>
         Full-Stack Software Developer with 5+ years of experience, driven by a relentless passion for continuous learning and a
@@ -13,11 +16,15 @@
         record of +500 system issue resolutions and delivering tangible results, such as reducing lead times by 35% and enhancing user
         experiences by over 90%, speaks to my proficiency in translating innovation into success.
 </p>
+<br >
+<br >
 
 ## 📫 Connect with me
 <p align="left">
        <a href="https://linkedin.com/in/engelbrod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engelbrod/" height="30" width="40" /></a>
 </p>
+<br >
+<br >
 
 ## 💻 Tech Stack
 <p align="left">  
