@@ -1,7 +1,3 @@
-<style is:global>
-       img { padding-right:10px;} 
-</style>
-
 <h1 align="center">Hi 👋, I'm Engel Rodriguez</h1>
 <h3 align="center">Software Developer | Full Stack Developer</h3>
 
