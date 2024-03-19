@@ -5,20 +5,22 @@
 - ❓ Ask me about JavaScript, Node.JS, React.JS, Algorithms       
 - 📫 Reach me at **Imengelbrod@gmail.com**
 - ⚾ Baseball Fan
-<h3 align="left">About me:</h3>
-       <p>
+## 🤵 About me
+<p>
         Full-Stack Software Developer with 5+ years of experience, driven by a relentless passion for continuous learning and a
         deep commitment to solving complex challenges. A critical thinker who thrives in collaborative teamwork, I've architectured and
         developed a wide range of web apps, addressing everything from improving efficiency to designing user-friendly interfaces. My track
         record of +500 system issue resolutions and delivering tangible results, such as reducing lead times by 35% and enhancing user
         experiences by over 90%, speaks to my proficiency in translating innovation into success.
-       </p>
-       <h3 align="left">Connect with me:</h3>
-       <p align="left">
+</p>
+
+## 📫 Connect with me
+<p align="left">
        <a href="https://linkedin.com/in/engelbrod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engelbrod/" height="30" width="40" /></a>
-       </p>
-       <h3 align="left">💻 Tech Stack:</h3>
-       <p align="left">  
+</p>
+
+## 💻 Tech Stack
+<p align="left">  
          <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" padding="10"/>
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="padding-right:10px;"/> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
