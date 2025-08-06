@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engel Rodriguez</h1>
-<h3 align="center">Software Developer | Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 <br >
 
 - 📖 I like to learn new things
@@ -11,7 +11,7 @@
 <h3> 🤵 About me </h3> 
 <p>
         Full-Stack Software Developer with 7+ years of experience, driven by a relentless passion for continuous learning and a
-        deep commitment to solving complex challenges. A critical thinker who thrives in collaborative teamwork, I've architectured and
+        deep commitment to solving complex challenges. A critical thinker who thrives in collaborative teamwork, I've architected and
         developed a wide range of web apps, addressing everything from improving efficiency to designing user-friendly interfaces. My track
         record of +500 system issue resolutions and delivering tangible results, such as reducing lead times by 35% and enhancing user
         experiences by over 90%, speaks to my proficiency in translating innovation into success.
