@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engel Rodriguez</h1>
-<h3 align="center">Software Engineer | Full Stack Web Developer specialized in Javascript, ReactJS, Node.js, SQL, and Database Design</h3>
+<h3 align="center">Software Engineer | Full Stack Web Developer</h3>
 <br >
 
 
