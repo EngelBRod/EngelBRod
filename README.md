@@ -4,7 +4,7 @@
 
 <h3> 🤵 About me </h3> 
 <p>
-With over 7 years of experience as a Full Stack Software Engineer, I design and build systems that scale, perform, and stay reliable under pressure. My work spans System Design, Database Design, Frontend development, and Backend development, with deep expertise in JavaScript, React, and Node.js. I have led the development of 100+ web applications and delivered features that reduced complexity, improved speed, and directly supported business growth.
+Hi there! I’m a Full Stack Software Engineer with over 7 years of experience in turning complex ideas into user-friendly, high-performance solutions. I really enjoy creating systems that not only perform well under pressure but also provide lasting value. Whether it’s designing strong architectures, optimizing databases, or crafting smooth front-end and back-end experiences, I’m all about making technology work for everyone.
 
 </p>
 <br >
