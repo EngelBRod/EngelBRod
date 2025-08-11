@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engel Rodriguez</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 <br >
+![](https://komarev.com/ghpvc/?username=engelbrod)
 
 - 📖 I like to learn new things
 - ❓ Ask me about JavaScript, Node.JS, React.JS, Algorithms       
