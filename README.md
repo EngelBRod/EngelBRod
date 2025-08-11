@@ -11,11 +11,8 @@
 
 <h3> 🤵 About me </h3> 
 <p>
-        Full-Stack Software Developer with 7+ years of experience, driven by a relentless passion for continuous learning and a
-        deep commitment to solving complex challenges. A critical thinker who thrives in collaborative teamwork, I've architected and
-        developed a wide range of web apps, addressing everything from improving efficiency to designing user-friendly interfaces. My track
-        record of +500 system issue resolutions and delivering tangible results, such as reducing lead times by 35% and enhancing user
-        experiences by over 90%, speaks to my proficiency in translating innovation into success.
+With over 7 years of experience as a Full Stack Software Engineer, I design and build systems that scale, perform, and stay reliable under pressure. My work spans System Design, Database Design, Frontend development, and Backend development, with deep expertise in JavaScript, React, and Node.js. I have led the development of 100+ web applications and delivered features that reduced complexity, improved speed, and directly supported business growth.
+
 </p>
 <br >
 
