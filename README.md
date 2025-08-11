@@ -10,7 +10,7 @@ Hi there! I’m a Full Stack Software Engineer with over 7 years of experience i
 
 
 - 📖 I like to learn new things
-- ❓ Ask me about JavaScript, Node.JS, React.JS, Algorithms       
+- ❓ Ask me about JavaScript, Node.js, React.js, Algorithms & Data structures, Database Design, System Design     
 - 📫 Reach me at **engel.b.rodriguez@gmail.com**
 - ⚾ Baseball Fan
 <br >
