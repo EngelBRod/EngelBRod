@@ -5,7 +5,7 @@
 
 - 📖 I like to learn new things
 - ❓ Ask me about JavaScript, Node.JS, React.JS, Algorithms       
-- 📫 Reach me at **Imengelbrod@gmail.com**
+- 📫 Reach me at **engel.b.rodriguez@gmail.com**
 - ⚾ Baseball Fan
 <br >
 
