@@ -15,8 +15,5 @@ Hi there! I’m a Full Stack Software Engineer with over 7 years of experience i
 - ⚾ Baseball Fan
 <br >
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/EngelBRod/count.svg" alt="Visitor's Count" />
-</div>
+
 
